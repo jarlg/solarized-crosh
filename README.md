@@ -56,6 +56,14 @@ term_.prefs_.set('color-palette-overrides',
 ```
 This overrides the default color-palette with the palette I've found to match with the solarized "dark" colorscheme. It doesn't fit perfectly with the light one, but it's just some tweaks away.
 
+## Customizing crosh
+I havent' really found any good lookup of how to customize crosh, but here are some useful things. ```'...'``` usually means you can put some CSS-readable value, f.ex. ```'#bababa'```.
+
+Change foreground, background or cursor color: ```term_.prefs_.set('foreground-color', '...')```
+
+Blinking cursor? ```term_.prefs_.set('cursor-blink', false)```
+
+
 ## Related useful stuff
 
 * [tmux solarized config](https://github.com/seebi/tmux-colors-solarized)
