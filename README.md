@@ -56,6 +56,11 @@ term_.prefs_.set('color-palette-overrides',
 ```
 This overrides the default color-palette with the palette I've found to match with the solarized "dark" colorscheme. It doesn't fit perfectly with the light one, but it's just some tweaks away.
 
+## Related useful stuff
+
+* [tmux solarized config](https://github.com/seebi/tmux-colors-solarized)
+* [solarized main repo](https://github.com/altercation/solarized)
+
 ## Screenshots
 
 ![screenshot1](https://raw.github.com/jarlg/solarized-crosh/master/ss1.png)
