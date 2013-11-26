@@ -55,3 +55,7 @@ term_.prefs_.set('color-palette-overrides',
         base0    , blue    , base1  , base3 ]);
 ```
 This overrides the default color-palette with the palette I've found to match with the solarized "dark" colorscheme. It doesn't fit perfectly with the light one, but it's just some tweaks away.
+
+## Screenshots
+
+![screenshot1](https://raw.github.com/jarlg/solarized-crosh/master/ss1.png)
