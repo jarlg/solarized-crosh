@@ -63,6 +63,8 @@ Change foreground, background or cursor color: ```term_.prefs_.set('foreground-c
 
 Blinking cursor? ```term_.prefs_.set('cursor-blink', false)```
 
+Screwed something up?  Globally undo everything you changed: ```term_.prefs_.resetAll()```
+
 
 ## Related useful stuff
 
