@@ -59,6 +59,8 @@ This overrides the default color-palette with the palette I've found to match wi
 ## Customizing crosh
 I havent' really found any good lookup of how to customize crosh, but here are some useful things. ```'...'``` usually means you can put some CSS-readable value, f.ex. ```'#bababa'```.
 
+Disable bold? ```term_.prefs_.set('enable-bold', false)```
+
 Change foreground, background or cursor color: ```term_.prefs_.set('foreground-color', '...')```
 
 Blinking cursor? ```term_.prefs_.set('cursor-blink', false)```
