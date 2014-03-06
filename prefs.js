@@ -18,5 +18,5 @@ green =      "#859900";
 term_.prefs_.set('color-palette-overrides',
         [ base02 , red     , green  , yellow,
         blue     , magenta , cyan   , base2,
-        base03   , orange  , base00 , base00,
-        base0    , blue    , base1  , base3 ]);
+        base03   , orange  , base01 , base00,
+        base0    , violet  , base1  , base3 ]);
