@@ -72,7 +72,3 @@ Screwed something up?  Globally undo everything you changed: ```term_.prefs_.res
 
 * [tmux solarized config](https://github.com/seebi/tmux-colors-solarized)
 * [solarized main repo](https://github.com/altercation/solarized)
-
-## Screenshots
-
-![screenshot1](https://raw.github.com/jarlg/solarized-crosh/master/ss1.png)
