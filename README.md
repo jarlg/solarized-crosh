@@ -54,7 +54,7 @@ term_.prefs_.set('color-palette-overrides',
         base03   , orange  , base01 , base00,
         base0    , violet  , base1  , base3 ]);
 ```
-This overrides the default color-palette with the palette I've found to match with the solarized "dark" colorscheme. It doesn't fit perfectly with the light one, but it's just some tweaks away.
+This overrides the default color-palette with the palette matching the dark solarized colorscheme. In vim (or equivalent), ```set background=light``` should now work.
 
 ## Customizing crosh
 I havent' really found any good lookup of how to customize crosh, but here are some useful things. ```'...'``` usually means you can put some CSS-readable value, f.ex. ```'#bababa'```.
