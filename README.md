@@ -57,7 +57,7 @@ term_.prefs_.set('color-palette-overrides',
 This overrides the default color-palette with the palette matching the dark solarized colorscheme. In vim (or equivalent), ```set background=light``` should now work.
 
 ## Customizing crosh
-I havent' really found any good lookup of how to customize crosh, but here are some useful things. ```'...'``` usually means you can put some CSS-readable value, f.ex. ```'#bababa'```.
+Here are some useful things. ```'...'``` usually means you can put some CSS-readable value, f.ex. ```'#bababa'```.
 
 Disable bold? ```term_.prefs_.set('enable-bold', false)```
 
@@ -66,6 +66,8 @@ Change foreground, background or cursor color: ```term_.prefs_.set('foreground-c
 Blinking cursor? ```term_.prefs_.set('cursor-blink', false)```
 
 Screwed something up?  Globally undo everything you changed: ```term_.prefs_.resetAll()```
+
+Some documentation is available [here](http://git.chromium.org/gitweb/?p=chromiumos/platform/assets.git;a=blob;f=chromeapps/nassh/doc/faq.txt#l234).
 
 
 ## Related useful stuff
