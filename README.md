@@ -59,6 +59,8 @@ This overrides the default color-palette with the palette matching the dark sola
 ## Customizing crosh
 Here are some useful things. ```'...'``` usually means you can put some CSS-readable value, f.ex. ```'#bababa'```.
 
+Remove scrollbar? ```term_.prefs_.set('scrollbar-visible', false);```
+
 Disable bold? ```term_.prefs_.set('enable-bold', false)```
 
 Change foreground, background or cursor color: ```term_.prefs_.set('foreground-color', '...')```
